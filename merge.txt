@@ -1,1 +1,2 @@
 conteuso inicial para conflito
+conteudo diferente do merge.txt
